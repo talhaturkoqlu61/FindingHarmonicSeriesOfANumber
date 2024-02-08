@@ -1,0 +1,2 @@
+# FindingHarmonicSeriesOfANumber
+ FindingHarmonicSeriesOfANumber
